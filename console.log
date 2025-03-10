@@ -1,0 +1,23 @@
+import mongoose from 'mongoose';
+
+const connectToDatabase = async () => {
+  try {
+    // Récupère l'URI de la base de données depuis l'environnement ou utilise la valeur par défaut
+    const dbUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/mydb';
+
+    // Affiche l'URI utilisée pour la connexion à MongoDB
+    console.log('DB URI utilisée:', dbUri);
+
+    // Connexion à MongoDB avec Mongoose
+    await mongoose.connect(dbUri, {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    });
+
+    console.log('Connexion réussie à MongoDB');
+  } catch (err) {
+    console.error('Erreur de connexion à MongoDB:', err);
+  }
+};
+
+export default connectToDatabase;

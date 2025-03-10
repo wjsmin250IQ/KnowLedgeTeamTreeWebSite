@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Discord",
+    "url": "https://discord.gg/monserveur"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/monchannel"
+  },
+  {
+    "name": "Instagram",
+    "url": "https://instagram.com/monprofil"
+  },
+  {
+    "name": "WhatsApp",
+    "url": "https://wa.me/1234567890"
+  },
+  {
+    "name": "Twitter (X)",
+    "url": "https://twitter.com/monprofil"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://www.tiktok.com/@monprofil"
+  },
+  {
+    "title": "New Link",
+    "url": "https://newlink.com"
+  }
+]

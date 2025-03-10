@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon Linktree</title>
+</head>
+<body>
+  <h1>📌 Mes Réseaux Sociaux</h1>
+  <p><a href="https://discord.com">Discord</a></p>
+  <p><a href="https://telegram.org">Telegram</a></p>
+  <p><a href="https://instagram.com">Instagram</a></p>
+  
+  <button onclick="toggleDarkMode()">🌙 Mode sombre</button>
+  
+  <footer>© 2025 - Mon Linktree</footer>
+
+  <script>
+    function toggleDarkMode() {
+      document.body.classList.toggle('sombre');
+      const modeButton = document.querySelector('button');
+      modeButton.textContent = document.body.classList.contains('sombre') ? '🌞 Mode clair' : '🌙 Mode sombre';
+    }
+  </script>
+
+  <style>
+    body.sombre {
+      background-color: #333;
+      color: white;
+    }
+
+    button {
+      margin-top: 20px;
+    }
+  </style>
+</body>
+</html>
