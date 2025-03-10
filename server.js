@@ -44,7 +44,6 @@ const connectDB = async () => {
   }
 
   try {
-    // Connexion sans les options dépréciées
     await mongoose.connect(DB_URI);
     logger.info("✅ Connexion réussie à MongoDB.");
   } catch (error) {
@@ -70,7 +69,9 @@ app.use(rateLimit({
   message: "🚫 Trop de requêtes, réessayez plus tard."
 }));
 
-// 📌 Routes API
+// 🚀 Routes API
+
+// Lecture des liens depuis le fichier JSON
 app.get("/api/links", async (req, res, next) => {
   try {
     const data = await fs.readFile(LINKS_FILE, "utf8");
@@ -81,6 +82,7 @@ app.get("/api/links", async (req, res, next) => {
   }
 });
 
+// Ajout d'un lien dans le fichier JSON
 app.post("/api/links", async (req, res, next) => {
   try {
     const newLink = req.body;
@@ -111,3 +113,11 @@ app.use(notFoundHandler); // Middleware pour gérer les routes non trouvées
 
 // 🚀 Démarrage du serveur
 app.listen(PORT, () => logger.info(`✅ Serveur en ligne : http://localhost:${PORT}`));
+
+// 🚀 Test d'importation d'un module (exemple à adapter selon vos besoins)
+try {
+  const myModule = require('myModule'); // Test d'un module externe
+  logger.info('✅ Module chargé avec succès');
+} catch (error) {
+  logger.error('❌ Erreur lors du chargement du module myModule:', error);
+}

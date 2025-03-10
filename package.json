@@ -4,8 +4,9 @@
   "description": "Application serveur pour le projet KnowLedgeTeamTreeWebsite, optimisée et sécurisée 🚀",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js",
     "start": "node server.js",
+    "build": "react-scripts build",
+    "dev": "react-scripts start",
     "start:prod": "pm2 start server.js --name knowledge-server",
     "lint": "eslint . --ext .js,.ts",
     "format": "prettier --write .",
