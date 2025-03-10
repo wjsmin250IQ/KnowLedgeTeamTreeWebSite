@@ -1,5 +1,5 @@
 // 🚀 Importation des modules
-const express = require("express");
+const express = require('express');
 const mongoose = require("mongoose");
 const winston = require("winston");
 const dotenv = require("dotenv");
@@ -9,7 +9,10 @@ const cors = require("cors");
 const morgan = require("morgan");
 const rateLimit = require("express-rate-limit");
 const fs = require("fs").promises; // Utilisation de `fs.promises` pour les opérations async
+
+// 🚀 Importation des middlewares et routes
 const { errorHandler, notFoundHandler } = require("./middlewares/errorHandler");
+const userRoutes = require('./src/routes/userRoutes'); // Assurez-vous d'adapter le chemin
 
 // 🚀 Chargement des variables d'environnement
 dotenv.config({ path: path.resolve(__dirname, "../.env") });
@@ -41,6 +44,7 @@ const connectDB = async () => {
   }
 
   try {
+    // Connexion sans les options dépréciées
     await mongoose.connect(DB_URI);
     logger.info("✅ Connexion réussie à MongoDB.");
   } catch (error) {
@@ -98,9 +102,12 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
+// 📌 Routes utilisateurs
+app.use('/api/users', userRoutes); // Utilisation de la route pour les utilisateurs
+
 // 📌 Gestion des erreurs et des routes inconnues
-app.use(errorHandler);
-app.use(notFoundHandler);
+app.use(errorHandler); // Middleware pour les erreurs
+app.use(notFoundHandler); // Middleware pour gérer les routes non trouvées
 
 // 🚀 Démarrage du serveur
 app.listen(PORT, () => logger.info(`✅ Serveur en ligne : http://localhost:${PORT}`));

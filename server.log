@@ -124,3 +124,6 @@
 2025-03-10T01:47:46.249Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
 2025-03-10T01:48:21.290Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
 2025-03-10T01:48:56.309Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T18:35:37.557Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T18:36:07.555Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T18:36:42.583Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
