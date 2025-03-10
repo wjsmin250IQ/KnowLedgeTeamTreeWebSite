@@ -17,6 +17,9 @@ const userRoutes = require('./src/routes/userRoutes'); // Assurez-vous d'adapter
 // 🚀 Chargement des variables d'environnement
 dotenv.config({ path: path.resolve(__dirname, "../.env") });
 
+require('dotenv').config();
+
+
 // 📌 Initialisation de l'application Express
 const app = express();
 const PORT = process.env.PORT || 3001;
