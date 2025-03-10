@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,eACI,iBAAkB,CAClB,YACF,CAEA,WACE,UACF","file":"main.4c82662f.chunk.css","sourcesContent":[".app-container {\r\n    text-align: center;\r\n    padding: 50px;\r\n  }\r\n  \r\n  .app-title {\r\n    color: blue;\r\n  }\r\n  "]}
