@@ -1,15 +1,24 @@
-// server.go
 package main
 
 import (
     "fmt"
     "net/http"
+    "os"
 )
 
 func main() {
     fs := http.FileServer(http.Dir("public")) // Dossier contenant HTML, CSS, JS
     http.Handle("/", fs) // Servir les fichiers statiques
 
-    fmt.Println("Serveur démarré sur http://localhost:8080 🚀")
-    http.ListenAndServe(":8080", nil)
+    // Récupérer le port depuis la variable d'environnement ou utiliser le port par défaut (8080)
+    port := os.Getenv("PORT")
+    if port == "" {
+        port = "8080" // Port par défaut pour le développement local
+    }
+
+    fmt.Printf("Serveur démarré sur http://localhost:%s 🚀\n", port)
+    err := http.ListenAndServe(":"+port, nil)
+    if err != nil {
+        fmt.Println("Erreur de démarrage du serveur :", err)
+    }
 }
