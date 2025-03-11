@@ -4,37 +4,50 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mon Linktree</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>📌 Mes Réseaux Sociaux</h1>
-  <p><a href="https://discord.gg/SEQ596PXa9">Discord</a></p>
-  <p><a href="https://t.me/+_rfHQcxWCHc4ZTY0">Telegram</a></p>
-  <p><a href="https://instagram.com">Instagram</a></p>
-  <p><a href="https://chat.whatsapp.com/Gv6xbO5AVMF2ROPzwIfgwo">WhatsApp</a></p>
-  <p><a href="https://twitter.com/monprofil">Twitter (X)</a></p>
-  <p><a href="https://www.tiktok.com/@monprofil">TikTok</a></p>
 
-  <button onclick="toggleDarkMode()">🌙 Mode sombre</button>
-  
-  <footer>© 2025 - Mon Linktree</footer>
+  <div class="container">
+    <h1>📌 Mes Réseaux Sociaux</h1>
+    
+    <div class="links">
+      <a href="https://discord.gg/SEQ596PXa9" target="_blank" class="social-link discord">Discord</a>
+      <a href="https://t.me/+_rfHQcxWCHc4ZTY0" target="_blank" class="social-link telegram">Telegram</a>
+      <a href="https://instagram.com" target="_blank" class="social-link instagram">Instagram</a>
+      <a href="https://chat.whatsapp.com/Gv6xbO5AVMF2ROPzwIfgwo" target="_blank" class="social-link whatsapp">WhatsApp</a>
+      <a href="https://twitter.com/monprofil" target="_blank" class="social-link twitter">Twitter (X)</a>
+      <a href="https://www.tiktok.com/@monprofil" target="_blank" class="social-link tiktok">TikTok</a>
+    </div>
+
+    <button id="mode-toggle">🌙 Mode sombre</button>
+    
+    <footer>© 2025 - Mon Linktree</footer>
+  </div>
+
+  <!-- Effet de particules -->
+  <div class="particles">
+    <span></span><span></span><span></span><span></span><span></span>
+    <span></span><span></span><span></span><span></span><span></span>
+  </div>
 
   <script>
-    function toggleDarkMode() {
-      document.body.classList.toggle('sombre');
-      const modeButton = document.querySelector('button');
-      modeButton.textContent = document.body.classList.contains('sombre') ? '🌞 Mode clair' : '🌙 Mode sombre';
+    // Gestion du mode sombre avec sauvegarde
+    const modeButton = document.getElementById('mode-toggle');
+    const currentMode = localStorage.getItem('darkMode');
+
+    if (currentMode === 'enabled') {
+      document.body.classList.add('dark-mode');
+      modeButton.textContent = '🌞 Mode clair';
     }
+
+    modeButton.addEventListener('click', () => {
+      document.body.classList.toggle('dark-mode');
+      const isDarkMode = document.body.classList.contains('dark-mode');
+      modeButton.textContent = isDarkMode ? '🌞 Mode clair' : '🌙 Mode sombre';
+      localStorage.setItem('darkMode', isDarkMode ? 'enabled' : 'disabled');
+    });
   </script>
 
-  <style>
-    body.sombre {
-      background-color: #333;
-      color: white;
-    }
-
-    button {
-      margin-top: 20px;
-    }
-  </style>
 </body>
 </html>
