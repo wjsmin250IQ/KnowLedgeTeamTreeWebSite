@@ -1,0 +1,1 @@
+{"error":{"code":"ENOENT","errno":-4058,"expose":false,"path":"C:\\Users\\HP\\Desktop\\KnowLedgeTeamTreeWebsite\\KnowLedgeTeamTreeWebsite\\server\\public\\index.html","status":404,"statusCode":404,"syscall":"stat"},"level":"error","message":"🔥 [ID 1741567709245] Erreur 404 sur /","timestamp":"2025-03-10T00:48:29.245Z"}

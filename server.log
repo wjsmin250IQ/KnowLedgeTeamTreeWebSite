@@ -1,0 +1,129 @@
+2025-03-09T21:41:01.581Z info: Le serveur fonctionne sur le port 3000
+2025-03-09T21:41:01.586Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:06.594Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:12.130Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:17.143Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:22.159Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:27.163Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:32.176Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:37.192Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:42.203Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:47.207Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:52.222Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:41:57.225Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:02.242Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:10.795Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:15.807Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:20.812Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:25.827Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:30.840Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:35.851Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:40.854Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:45.866Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:50.879Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:42:55.887Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:00.898Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:05.904Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:10.914Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:15.921Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:20.928Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:25.935Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:30.947Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:35.955Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:40.963Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:45.965Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:50.978Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-09T21:43:55.985Z error: Erreur lors de la connexion à MongoDB: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+2025-03-10T00:03:50.250Z error: L'URL de la base de données (DB_URI) n'est pas définie !
+2025-03-10T00:03:50.267Z info: Serveur démarré sur http://localhost:3001
+2025-03-10T00:11:46.814Z info: Serveur démarré sur http://localhost:3001
+2025-03-10T00:12:16.819Z error: Erreur lors de la connexion à MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:12:51.847Z error: Erreur lors de la connexion à MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:13:26.692Z info: Serveur démarré sur http://localhost:3001
+2025-03-10T00:13:56.686Z error: Erreur lors de la connexion à MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:14:25.309Z info: ::1 - - [10/Mar/2025:00:14:25 +0000] "GET /api/links HTTP/1.1" 500 14 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0"
+2025-03-10T00:14:25.977Z info: ::1 - - [10/Mar/2025:00:14:25 +0000] "GET /favicon.ico HTTP/1.1" 404 20 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0"
+2025-03-10T00:14:31.699Z error: Erreur lors de la connexion à MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:15:06.721Z error: Erreur lors de la connexion à MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:27:31.881Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T00:28:01.881Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:28:36.903Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:29:03.621Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:03.633Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T00:29:08.642Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:13.652Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:18.654Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:23.668Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:28.677Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:33.684Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:38.699Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:43.714Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:48.719Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:53.728Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:29:58.742Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:03.748Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:08.750Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:13.755Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:18.765Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:23.770Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:28.780Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:33.793Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:38.805Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:30:43.815Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:31:18.101Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:31:18.111Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T00:31:23.114Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:31:31.037Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:31:43.549Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:31:48.560Z error: ❌ Erreur de connexion MongoDB: dbURI is not defined
+2025-03-10T00:35:35.188Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T00:36:05.184Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:36:40.211Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:37:01.641Z info: ✅ Connexion réussie à MongoDB.
+2025-03-10T00:48:00.834Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T00:48:29.254Z info: ::1 - - [10/Mar/2025:00:48:29 +0000] "GET / HTTP/1.1" 404 427 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0"
+2025-03-10T00:48:30.840Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:49:05.864Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:49:40.882Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:50:15.902Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:50:50.929Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:51:25.946Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:52:00.955Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:52:35.978Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T00:53:12.424Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T00:53:42.431Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:32:19.634Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T01:32:49.643Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:33:24.656Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:33:50.821Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T01:34:20.826Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:34:55.846Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:35:30.871Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:36:05.883Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:36:40.906Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:37:15.535Z info: ::1 - - [10/Mar/2025:01:37:15 +0000] "GET /api/links HTTP/1.1" 200 345 "-" "PostmanRuntime/7.43.0"
+2025-03-10T01:37:15.924Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:37:49.215Z info: ::1 - - [10/Mar/2025:01:37:49 +0000] "POST /api/links HTTP/1.1" 201 448 "-" "PostmanRuntime/7.43.0"
+2025-03-10T01:37:50.946Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:38:25.954Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:39:00.977Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:39:35.992Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:40:11.009Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:40:46.025Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:41:21.044Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:41:56.068Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:42:31.087Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:43:06.110Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:43:41.130Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:44:16.143Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:44:51.153Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:45:26.170Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:46:01.184Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:46:36.193Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:47:11.221Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:47:46.249Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:48:21.290Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T01:48:56.309Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T18:35:37.557Z info: ✅ Serveur en ligne : http://localhost:3001
+2025-03-10T18:36:07.555Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+2025-03-10T18:36:42.583Z error: ❌ Erreur de connexion MongoDB: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
